@@ -1,0 +1,20 @@
+.editCell {
+    width: 1px;
+    padding: 0 !important;
+    position: relative;
+}
+
+.actions {
+    position: absolute;
+    transform: translateY(-50%);
+    top: 50%;
+    left: -40px;
+}
+
+.showActions {
+    opacity: 1 !important;
+}
+
+.hideActions {
+    opacity: 0 !important;
+}

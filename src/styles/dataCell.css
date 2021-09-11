@@ -1,0 +1,17 @@
+.root:nth-last-child(n+3) {
+    border-right: 1px solid #eee
+}
+
+.string {
+    min-width: 250px !important;
+}
+
+.number {
+    min-width: 100px !important;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: purple;
+    cursor: pointer;
+}

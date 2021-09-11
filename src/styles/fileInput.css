@@ -1,0 +1,8 @@
+.fileButton {
+    margin: 5px;
+    text-transform: none !important;
+}
+
+.fileInput {
+    display: none;
+}

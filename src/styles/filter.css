@@ -1,0 +1,22 @@
+.root {
+    width: 100%;
+    padding: 10px !important;
+    box-sizing: border-box;
+}
+
+.filterResults {
+    width: 98% !important;
+    margin-left: 1% !important;
+    margin-top: 10px !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+.queryInput {
+    flex: 10;
+}
+
+.filterButton {
+    flex: 1;
+    margin-left: 10px !important;
+}

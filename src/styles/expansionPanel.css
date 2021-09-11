@@ -1,0 +1,20 @@
+.MuiAccordion-root {
+    border: 1px solid rgba(0, 0, 0, .125) !important;
+    box-shadow: none !important;
+}
+
+.MuiAccordion-root:not(:last-child) {
+    border-bottom: 0 !important;
+}
+
+.MuiAccordion-root:before {
+    display: none !important;
+}
+
+.MuiAccordion-root.Mui-expanded {
+    margin: 0 !important;
+}
+
+.details {
+    padding: 0 !important;
+}

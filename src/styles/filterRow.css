@@ -1,0 +1,23 @@
+.formControl {
+    margin: 5px !important;
+    width: 18%;
+}
+
+.filterRow {
+    width: 97%;
+    margin-left: 3%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd
+}
+
+.filters {
+    width: 96%;
+    float: left;
+}
+
+.filterButtons {
+    width: 4%;
+    float: right;
+}

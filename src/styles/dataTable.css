@@ -1,0 +1,25 @@
+.root {
+    width: 100%;
+}
+
+.paper {
+    width: 100%;
+}
+
+.tableWrapper {
+    overflow-x: auto;
+    height: 100%;
+    display: flex;
+    padding: 10px 0;
+    overflow-y: hidden;
+}
+
+.table {
+    flex: 1;
+    margin: 0 5px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}

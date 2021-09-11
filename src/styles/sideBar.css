@@ -1,0 +1,16 @@
+.drawer {
+    width: 250px;
+    flex-shrink: 0;
+}
+
+.drawerPaper {
+    width: 250px;
+}
+
+.drawerHeader {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    min-height: 48px !important;
+    margin-right: 10px;
+}

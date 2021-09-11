@@ -1,0 +1,15 @@
+.row {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.inputWrapper {
+    flex: 1;
+    margin: 5px !important;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
