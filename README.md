@@ -7,9 +7,9 @@ Realm Editor reads database files from its own data directory, so in order to op
 ## Download
 You can download the latest version of Realm Editor from following links:
 
-- [Realm Editor Windows](https://www.google.com)
-- [Realm Editor Linux](https://www.google.com)
-- [Realm Editor MacOS](https://www.google.com)
+- [Realm Editor Windows](https://github.com/noorzaie/realm-editor/releases/download/v1.0.1/realm-editor-Setup-1.0.1.exe)
+- [Realm Editor Linux](https://github.com/noorzaie/realm-editor/releases/download/v1.0.1/realm-editor-1.0.1.tar.gz)
+- [Realm Editor MacOS](https://github.com/noorzaie/realm-editor/releases/download/v1.0.1/realm-editor-1.0.1.dmg)
  
 
 ## Features
