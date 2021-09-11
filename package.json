@@ -1,6 +1,6 @@
 {
     "name": "realm-editor",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "An application to create and edit .realm files.",
     "keywords": [],
     "author": "Azizahmad Noorzaie <aanoorzaie@gmail.com>",

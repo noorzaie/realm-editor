@@ -1,47 +1,28 @@
-## Electron + TypeScript + React
-Boilerplate for a project using Electron, React and Typescript
+## Realm Editor
+Realm Editor is a tool to work with [Realm](https://realm.io)
+ database files in a graphical environment, instead of working directly with schema files.
+ 
+Realm Editor reads database files from its own data directory, so in order to open your .realm files, you should import them, then a copy of your database will be created in data directory. After manipulating your database you can export that.
 
-## Installation
+## Download
+You can download the latest version of Realm Editor from following links:
 
-Use a package manager of your choice (npm, yarn, etc.) in order to install all dependencies
+- [Realm Editor Windows](https://www.google.com)
+- [Realm Editor Linux](https://www.google.com)
+- [Realm Editor MacOS](https://www.google.com)
+ 
 
-```bash
-npm install
-```
+## Features
+Below is a list of Realm Editor features:
 
-```bash
-yarn install
-```
+- Keep a list of databases
+- Define new schema
+- Edit schema (name, filed names and types, ...)
+- Create, edit and delete data
+- View paginated and sortable data
+- Advanced query builder
+- Working with relationships
+- Export schema for different languages
+- Export data in different formats
+- Support from new data types like ObjectId and UUID
 
-## Usage
-In order to run this project 2 scripts will need to be executed `dev:react` and `dev:electron`, run each one in a different terminal and always run `dev:react` before `dev:electron`, or `dev` to run them in order automatically
-
-```bash
-npm run dev:react
-```
-```bash
-npm run dev:electron
-```
-
-or
-
-```bash
-npm run dev
-```
-
-## Packaging
-To generate a project package run `package`
-
-```bash
-npm run package
-```
-
-
-
-## Contributing
-
-Pull requests are always welcome 😃.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
