@@ -22,6 +22,7 @@ Below is a list of Realm Editor features:
 - View paginated and sortable data
 - Advanced query builder
 - Working with relationships
+- Import .realm files and json schema
 - Export schema for different languages
 - Export data in different formats
 - Support from new data types like ObjectId and UUID
